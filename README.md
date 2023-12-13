@@ -5,7 +5,6 @@ aspiring Software Developer
 ---------------------------
 
 * 🌍  I'm based in pune
-* 🖥️  See my portfolio at [Resume](http://drive.google.com/file/d/1tvhtWWVtn2xZVYzOSpOKisWARx-TGIQN/view?usp=drive_link)
 * ✉️  You can contact me at [parth.pishte21@vit.edu](mailto:parth.pishte21@vit.edu)
 * 🤝  I'm open to collaborating on Web dev and ML
 
